@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @srpthemaster
-- 👀 I’m interested in Machine Learning and Data Science
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I work as Data Science Specialist
+- 🌱 I’m exploring Deep Learning projects
+- 💞️ I’m looking to collaborate on DL, ML & NLP topics ...
+
 
 <!---
 srpthemaster/srpthemaster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
